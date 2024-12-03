@@ -4,6 +4,6 @@ This is a repository about the paper "Beyond Enzymes: comparative genomics revea
 
 Here you can find:
 - Complete networks (wiki);
-- Related code analysing the antimash  and Gecco results;
+- Related code analysing the Antimash  and Gecco results;
 - Phylogeny methodology (wiki);
   
