@@ -1,4 +1,4 @@
-"""This code takes the Antismash summary data and compares to Gecco. Is still wonder of construction :)
+"""This code takes the Antismash summary data and compares to Gecco. Is still under of construction :)
 So problably this will not run in your computer yet :("""
 
 import pandas as pd
