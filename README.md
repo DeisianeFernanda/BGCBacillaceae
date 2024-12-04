@@ -1,6 +1,6 @@
 # BGCBacillaceae
 
-This is a repository about the paper "Beyond Enzymes: comparative genomics reveals extremophilic _Bacillaceae_ as a source of new bioactive compounds" which are inside a in gratest project called "Exploring Biosynthetic Gene Clusters in extremophilic Members of the _Bacillaceae Family_
+This repository is for the paper 'Beyond Enzymes: Comparative Genomics Reveals Extremophilic _Bacillaceae_ as a Source of New Bioactive Compounds,' which is part of a larger project called 'Exploring Biosynthetic Gene Clusters in Extremophilic Members of the _Bacillaceae_ family.
 
 Complete networks:
 - [Terpenes](https://drive.google.com/file/d/1Ogdls8N1OvuP1-JmS7MhH-RNvBdLi3ac/view?usp=sharing)
